@@ -10,7 +10,7 @@ Content:
 Registration - PHP form processing and database used
 Login - PHP form processing and database used
 Home - random images function
-About (holds screenshots of database tables)
+About - holds screenshots of database tables
 Daily - date and switches used
 Portfolio - database and switches used
 Portfolio-View - database used
