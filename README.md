@@ -1,6 +1,6 @@
 # it261final
 
-This repository hosts all the files for my final PHP project in IT261 at Seattle Central Community College.
+This repository hosts all the files for my final PHP project in IT261 at Seattle Central College.
 It uses PHP to dynamically return appropriate content (based on date, database content, etc).
 
 Although it does require registration and login, that is only to demonstrate PHP forms and mySQL databases/tables. Feel free to put in nonsense information to get into the content within. I will not be using the information in any way.
